@@ -1,0 +1,15 @@
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\obj\Debug\net8.0\Compras.API.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\obj\Debug\net8.0\Compras.API.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\obj\Debug\net8.0\Compras.API.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\obj\Debug\net8.0\Compras.API.Aplicacion.AssemblyInfo.cs
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\obj\Debug\net8.0\Compras.API.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\bin\Debug\net8.0\Compras.API.Aplicacion.deps.json
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\bin\Debug\net8.0\Compras.API.Aplicacion.dll
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\bin\Debug\net8.0\Compras.API.Aplicacion.pdb
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\bin\Debug\net8.0\Compras.API.Entidades.dll
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\bin\Debug\net8.0\Compras.API.Entidades.pdb
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\obj\Debug\net8.0\Compras..EF6A7C0D.Up2Date
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\obj\Debug\net8.0\Compras.API.Aplicacion.dll
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\obj\Debug\net8.0\refint\Compras.API.Aplicacion.dll
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\obj\Debug\net8.0\Compras.API.Aplicacion.pdb
+C:\Users\kpere\source\repos\Compras.API\Compras.API.Aplicacion\obj\Debug\net8.0\ref\Compras.API.Aplicacion.dll
