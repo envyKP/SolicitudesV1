@@ -12,7 +12,7 @@ namespace Solicitudes.API.Entidades.DTOs
         public string NOMBRES { get; set; } = null!;
         public string USERNAME { get; set; } = null!;
         public int ROL_ID { get; set; }
-        public string TELEFONO { get; set; } = null!;
+        public string CLAVE { get; set; } = null!;
         public string CORREO { get; set; } = null!;
 
     }

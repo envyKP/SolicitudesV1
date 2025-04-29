@@ -18,16 +18,11 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 // AutoMapper
-//builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+//builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies()); muy generalizada
 builder.Services.AddAutoMapper(typeof(configMapper));
-
-
-
+//builder.Services.AddAutoMapper(typeof(configMapper)); Solicitu
 // Inyección de dependencias de la capa Aplicación
 builder.Services.AddService();
-
-
-
 // Conexión a la base de datos
 builder.Services.AddDbContext<SolicitudesContextBD>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("SolicitudesConnection")));

@@ -10,3 +10,16 @@ C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\n
 C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\refint\Solicitudes.API.Entidades.dll
 C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\Solicitudes.API.Entidades.pdb
 C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\ref\Solicitudes.API.Entidades.dll
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\bin\Debug\net8.0\Solicitudes.API.Entidades.deps.json
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\bin\Debug\net8.0\Solicitudes.API.Entidades.dll
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\bin\Debug\net8.0\Solicitudes.API.Entidades.pdb
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\Solicitudes.API.Entidades.csproj.AssemblyReference.cache
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\Solicitudes.API.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\Solicitudes.API.Entidades.AssemblyInfoInputs.cache
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\Solicitudes.API.Entidades.AssemblyInfo.cs
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\Solicitudes.API.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\Solicitudes.API.Entidades.sourcelink.json
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\Solicitudes.API.Entidades.dll
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\refint\Solicitudes.API.Entidades.dll
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\Solicitudes.API.Entidades.pdb
+C:\Users\kpere\source\repos\solicitudes.ApiV2\SolicitudesV1\Solicitudes.API\Solicitudes.API.Entidades\obj\Debug\net8.0\ref\Solicitudes.API.Entidades.dll

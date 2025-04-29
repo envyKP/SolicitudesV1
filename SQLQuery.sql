@@ -11,7 +11,7 @@ create table tbl_usuarios (
     nombres varchar(100) not null, 
     username varchar(50) not null unique, 
     rol_id int not null, 
-    telefono varchar(20), 
+    clave varchar(20), 
     correo varchar(100), 
     foreign key (rol_id) references tbl_roles(rol_id) 
 ); 
@@ -26,7 +26,7 @@ create table tbl_solicitudes (
     comentario varchar(500)
 ); 
 
--- crear tabla de auditoría 
+-- crear tabla de auditorï¿½a 
 create table tbl_auditoria ( 
     id int primary key identity(1,1), 
     tabla_afectada varchar(50) not null, 
@@ -39,7 +39,7 @@ create table tbl_auditoria (
     foreign key (usuario_id) references tbl_usuarios(id) 
 ); 
 
--- crear triggers para auditoría de usuarios 
+-- crear triggers para auditorï¿½a de usuarios 
 create trigger tr_usuarios_auditoria 
 on tbl_usuarios 
 after insert, update, delete 
@@ -79,7 +79,7 @@ begin
     where not exists (select 1 from inserted); 
 end; 
 
--- crear triggers para auditoría de solicitudes 
+-- crear triggers para auditorï¿½a de solicitudes 
 create trigger tr_solicitudes_auditoria 
 on tbl_solicitudes 
 after insert, update, delete 
@@ -131,11 +131,11 @@ VALUES
 ('Invitado');
 
 -- Insertar usuarios
-INSERT INTO tbl_usuarios (nombres, username, rol_id, telefono, correo)
+INSERT INTO tbl_usuarios (nombres, username, rol_id, clave, correo)
 VALUES 
-('kevin Pérez', 'kperez', 1, '1234567890', 'juan.perez@ejemplo.com'),
-('Ana Gómez', 'agomez', 2, '0987654321', 'ana.gomez@ejemplo.com'),
+('kevin Pï¿½rez', 'kperez', 1, '1234567890', 'juan.perez@ejemplo.com'),
+('Ana Gï¿½mez', 'agomez', 2, '0987654321', 'ana.gomez@ejemplo.com'),
 ('Luis Torres', 'ltorres', 3, '3216549870', 'luis.torres@ejemplo.com'),
-('María Ruiz', 'mruiz', 4, '4561237890', 'maria.ruiz@ejemplo.com');
+('Marï¿½a Ruiz', 'mruiz', 4, '4561237890', 'maria.ruiz@ejemplo.com');
 
 select * from [dbo].[tbl_usuarios];

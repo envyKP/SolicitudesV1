@@ -113,7 +113,7 @@ public partial class SolicitudesContextBD : DbContext
                 .HasMaxLength(100)
                 .IsUnicode(false);
 
-            entity.Property(e => e.TELEFONO)
+            entity.Property(e => e.CLAVE)
                 .IsRequired()
                 .HasMaxLength(15)
                 .IsUnicode(false);
