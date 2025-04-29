@@ -75,7 +75,7 @@ public partial class SolicitudesContextBD : DbContext
         modelBuilder.Entity<TBL_SOLICITUD>(entity =>
         {
             entity.HasKey(e => e.ID);
-            entity.ToTable("TBL_SOLICITUDES");
+            entity.ToTable("TBL_SOLICITUD");
 
             entity.Property(e => e.DESCRIPCION)
                 .IsRequired()

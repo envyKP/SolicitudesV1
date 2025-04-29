@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C978E43B-0C31-4408-9272-E34B15C2FA39}|Solicitudes.API.Infraestructura\\Solicitudes.API.Infraestructura.csproj|c:\\users\\user\\source\\repos\\solicitudes.api\\solicitudes.api.infraestructura\\repositorios\\solicitudrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C978E43B-0C31-4408-9272-E34B15C2FA39}|Solicitudes.API.Infraestructura\\Solicitudes.API.Infraestructura.csproj|solutionrelative:solicitudes.api.infraestructura\\repositorios\\solicitudrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C978E43B-0C31-4408-9272-E34B15C2FA39}|Solicitudes.API.Infraestructura\\Solicitudes.API.Infraestructura.csproj|c:\\users\\user\\source\\repos\\solicitudes.api\\solicitudes.api.infraestructura\\context\\solicitudescontextbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C978E43B-0C31-4408-9272-E34B15C2FA39}|Solicitudes.API.Infraestructura\\Solicitudes.API.Infraestructura.csproj|solutionrelative:solicitudes.api.infraestructura\\context\\solicitudescontextbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{856E98ED-E02B-4B49-B59B-6E449B294FF1}|Solicitudes.API.Aplicacion\\Solicitudes.API.Aplicacion.csproj|c:\\users\\user\\source\\repos\\solicitudes.api\\solicitudes.api.aplicacion\\inyecciondependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{856E98ED-E02B-4B49-B59B-6E449B294FF1}|Solicitudes.API.Aplicacion\\Solicitudes.API.Aplicacion.csproj|solutionrelative:solicitudes.api.aplicacion\\inyecciondependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31B2769D-6488-4585-8943-28F85F2CE0D3}|Solicitudes.API.Entidades\\Solicitudes.API.Entidades.csproj|c:\\users\\user\\source\\repos\\solicitudes.api\\solicitudes.api.entidades\\dtos\\solicituddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31B2769D-6488-4585-8943-28F85F2CE0D3}|Solicitudes.API.Entidades\\Solicitudes.API.Entidades.csproj|solutionrelative:solicitudes.api.entidades\\dtos\\solicituddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C978E43B-0C31-4408-9272-E34B15C2FA39}|Solicitudes.API.Infraestructura\\Solicitudes.API.Infraestructura.csproj|c:\\users\\user\\source\\repos\\solicitudes.api\\solicitudes.api.infraestructura\\repositorios\\solicitudrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C978E43B-0C31-4408-9272-E34B15C2FA39}|Solicitudes.API.Infraestructura\\Solicitudes.API.Infraestructura.csproj|solutionrelative:solicitudes.api.infraestructura\\repositorios\\solicitudrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86B7874F-75CF-4D17-B6A4-3A819E7C2543}|Solicitudes.API\\Solicitudes.API.csproj|c:\\users\\user\\source\\repos\\solicitudes.api\\solicitudes.api\\controllers\\solicitudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{31B2769D-6488-4585-8943-28F85F2CE0D3}|Solicitudes.API.Entidades\\Solicitudes.API.Entidades.csproj|c:\\users\\user\\source\\repos\\solicitudes.api\\solicitudes.api.entidades\\entities\\tbl_solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31B2769D-6488-4585-8943-28F85F2CE0D3}|Solicitudes.API.Entidades\\Solicitudes.API.Entidades.csproj|solutionrelative:solicitudes.api.entidades\\entities\\tbl_solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C978E43B-0C31-4408-9272-E34B15C2FA39}|Solicitudes.API.Infraestructura\\Solicitudes.API.Infraestructura.csproj|c:\\users\\user\\source\\repos\\solicitudes.api\\solicitudes.api.infraestructura\\context\\solicitudescontextbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C978E43B-0C31-4408-9272-E34B15C2FA39}|Solicitudes.API.Infraestructura\\Solicitudes.API.Infraestructura.csproj|solutionrelative:solicitudes.api.infraestructura\\context\\solicitudescontextbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{856E98ED-E02B-4B49-B59B-6E449B294FF1}|Solicitudes.API.Aplicacion\\Solicitudes.API.Aplicacion.csproj|c:\\users\\user\\source\\repos\\solicitudes.api\\solicitudes.api.aplicacion\\interfaces\\iservicios\\iusuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,7 +129,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -137,59 +137,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioServicio.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Aplicacion\\Servicios\\UsuarioServicio.cs",
-              "RelativeDocumentMoniker": "Solicitudes.API.Aplicacion\\Servicios\\UsuarioServicio.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Aplicacion\\Servicios\\UsuarioServicio.cs",
-              "RelativeToolTip": "Solicitudes.API.Aplicacion\\Servicios\\UsuarioServicio.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvzAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:30:46.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SolicitudDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Entidades\\DTOs\\SolicitudDTO.cs",
-              "RelativeDocumentMoniker": "Solicitudes.API.Entidades\\DTOs\\SolicitudDTO.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Entidades\\DTOs\\SolicitudDTO.cs",
-              "RelativeToolTip": "Solicitudes.API.Entidades\\DTOs\\SolicitudDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:26:46.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SolicitudController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API\\Controllers\\SolicitudController.cs",
-              "RelativeDocumentMoniker": "Solicitudes.API\\Controllers\\SolicitudController.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API\\Controllers\\SolicitudController.cs",
-              "RelativeToolTip": "Solicitudes.API\\Controllers\\SolicitudController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T06:06:52.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SolicitudRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Infraestructura\\Repositorios\\SolicitudRepositorio.cs",
               "RelativeDocumentMoniker": "Solicitudes.API.Infraestructura\\Repositorios\\SolicitudRepositorio.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Infraestructura\\Repositorios\\SolicitudRepositorio.cs",
               "RelativeToolTip": "Solicitudes.API.Infraestructura\\Repositorios\\SolicitudRepositorio.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T05:48:18.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "InyeccionDependencia.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Aplicacion\\InyeccionDependencia.cs",
               "RelativeDocumentMoniker": "Solicitudes.API.Aplicacion\\InyeccionDependencia.cs",
@@ -202,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ISolicitudRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Aplicacion\\Interfaces\\IRepositorios\\ISolicitudRepositorio.cs",
               "RelativeDocumentMoniker": "Solicitudes.API.Aplicacion\\Interfaces\\IRepositorios\\ISolicitudRepositorio.cs",
@@ -210,12 +171,48 @@
               "RelativeToolTip": "Solicitudes.API.Aplicacion\\Interfaces\\IRepositorios\\ISolicitudRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T06:01:13.215Z",
+              "WhenOpened": "2025-04-29T06:01:13.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SolicitudesContextBD.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Infraestructura\\Context\\SolicitudesContextBD.cs",
+              "RelativeDocumentMoniker": "Solicitudes.API.Infraestructura\\Context\\SolicitudesContextBD.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Infraestructura\\Context\\SolicitudesContextBD.cs",
+              "RelativeToolTip": "Solicitudes.API.Infraestructura\\Context\\SolicitudesContextBD.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv4MAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:09:26.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "SolicitudController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API\\Controllers\\SolicitudController.cs",
+              "RelativeDocumentMoniker": "Solicitudes.API\\Controllers\\SolicitudController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API\\Controllers\\SolicitudController.cs",
+              "RelativeToolTip": "Solicitudes.API\\Controllers\\SolicitudController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:06:52.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SolicitudDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Entidades\\DTOs\\SolicitudDTO.cs",
+              "RelativeDocumentMoniker": "Solicitudes.API.Entidades\\DTOs\\SolicitudDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Entidades\\DTOs\\SolicitudDTO.cs",
+              "RelativeToolTip": "Solicitudes.API.Entidades\\DTOs\\SolicitudDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:26:46.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SolicitudService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Aplicacion\\Servicios\\SolicitudService.cs",
               "RelativeDocumentMoniker": "Solicitudes.API.Aplicacion\\Servicios\\SolicitudService.cs",
@@ -223,12 +220,24 @@
               "RelativeToolTip": "Solicitudes.API.Aplicacion\\Servicios\\SolicitudService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T06:03:39.68Z",
+              "WhenOpened": "2025-04-29T06:03:39.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioServicio.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Aplicacion\\Servicios\\UsuarioServicio.cs",
+              "RelativeDocumentMoniker": "Solicitudes.API.Aplicacion\\Servicios\\UsuarioServicio.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Aplicacion\\Servicios\\UsuarioServicio.cs",
+              "RelativeToolTip": "Solicitudes.API.Aplicacion\\Servicios\\UsuarioServicio.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:30:46.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API\\Program.cs",
               "RelativeDocumentMoniker": "Solicitudes.API\\Program.cs",
@@ -236,12 +245,11 @@
               "RelativeToolTip": "Solicitudes.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:17:27.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T04:17:27.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ISolicitudService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Aplicacion\\Interfaces\\IServicios\\ISolicitudService.cs",
               "RelativeDocumentMoniker": "Solicitudes.API.Aplicacion\\Interfaces\\IServicios\\ISolicitudService.cs",
@@ -249,12 +257,11 @@
               "RelativeToolTip": "Solicitudes.API.Aplicacion\\Interfaces\\IServicios\\ISolicitudService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T06:03:10.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T06:03:10.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SolicitudMapper.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Entidades\\Mapper\\SolicitudMapper.cs",
               "RelativeDocumentMoniker": "Solicitudes.API.Entidades\\Mapper\\SolicitudMapper.cs",
@@ -262,12 +269,11 @@
               "RelativeToolTip": "Solicitudes.API.Entidades\\Mapper\\SolicitudMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T05:59:07.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T05:59:07.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Solicitudes.API\\Controllers\\UsuarioController.cs",
@@ -275,12 +281,11 @@
               "RelativeToolTip": "Solicitudes.API\\Controllers\\UsuarioController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:41:05.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T04:41:05.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "InyeccionDependencia.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Infraestructura\\InyeccionDependencia.cs",
               "RelativeDocumentMoniker": "Solicitudes.API.Infraestructura\\InyeccionDependencia.cs",
@@ -288,25 +293,11 @@
               "RelativeToolTip": "Solicitudes.API.Infraestructura\\InyeccionDependencia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T03:17:04.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T03:17:04.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SolicitudesContextBD.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Infraestructura\\Context\\SolicitudesContextBD.cs",
-              "RelativeDocumentMoniker": "Solicitudes.API.Infraestructura\\Context\\SolicitudesContextBD.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Infraestructura\\Context\\SolicitudesContextBD.cs",
-              "RelativeToolTip": "Solicitudes.API.Infraestructura\\Context\\SolicitudesContextBD.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAmwIgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:09:26.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "configMapper.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Entidades\\Mapper\\configMapper.cs",
               "RelativeDocumentMoniker": "Solicitudes.API.Entidades\\Mapper\\configMapper.cs",
@@ -314,12 +305,11 @@
               "RelativeToolTip": "Solicitudes.API.Entidades\\Mapper\\configMapper.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAiwAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:54:54.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T04:54:54.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TBL_SOLICITUD.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Solicitudes.API\\Solicitudes.API.Entidades\\Entities\\TBL_SOLICITUD.cs",
               "RelativeDocumentMoniker": "Solicitudes.API.Entidades\\Entities\\TBL_SOLICITUD.cs",
@@ -327,8 +317,7 @@
               "RelativeToolTip": "Solicitudes.API.Entidades\\Entities\\TBL_SOLICITUD.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwBIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:21:10.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T04:21:10.167Z"
             },
             {
               "$type": "Document",

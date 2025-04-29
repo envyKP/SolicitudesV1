@@ -1,4 +1,6 @@
-﻿using Solicitudes.API.Aplicacion.Interfaces.IRepositorios;
+﻿using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
+using Solicitudes.API.Aplicacion.Interfaces.IRepositorios;
 using Solicitudes.API.Entidades.Entities;
 using Solicitudes.API.Infraestructura.Context;
 using System;
@@ -24,16 +26,26 @@ namespace Solicitudes.API.Infraestructura.Repositorios
         {
             try
             {
-                await _context.TBL_SOLICITUD.AddAsync(solicitud);
-                await _context.SaveChangesAsync();
-                return "Solicitud creada exitosamente."; ;
+                // Aquí no insertamos directamente, sino que ejecutamos el SP
+                // Llamamos al SP y pasamos los parámetros desde el DTO
+                await _context.Database.ExecuteSqlRawAsync(
+                    "EXEC sp_crear_solicitudes @descripcion, @monto, @fecha_esperada, @estado, @comentario",
+                    new SqlParameter("@descripcion", solicitud.DESCRIPCION),
+                    new SqlParameter("@monto", solicitud.MONTO),
+                    new SqlParameter("@fecha_esperada", solicitud.FECHA_ESPERADA),
+                    new SqlParameter("@estado", solicitud.ESTADO),
+                    new SqlParameter("@comentario", solicitud.COMENTARIO)
+                );
+
+                return "Solicitud creada exitosamente.";
+
             }
             catch (Exception ex)
             {
                 string mensajeError = ex.InnerException?.Message ?? ex.Message;
                 return mensajeError.Length > 400 ? mensajeError.Substring(0, 400) : mensajeError;
             }
-        }
 
+        }
     }
 }
