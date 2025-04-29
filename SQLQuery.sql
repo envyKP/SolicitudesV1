@@ -1,23 +1,23 @@
 -- crear tabla de roles 
-create table roles ( 
+create table tbl_roles ( 
     rol_id int primary key identity(1,1), 
     descripcion varchar(100) not null, 
     fecha_creacion datetime default getdate() 
 ); 
 
 -- crear tabla de usuarios 
-create table usuarios ( 
+create table tbl_usuarios ( 
     id int primary key identity(1,1), 
     nombres varchar(100) not null, 
     username varchar(50) not null unique, 
     rol_id int not null, 
     telefono varchar(20), 
     correo varchar(100), 
-    foreign key (rol_id) references roles(rol_id) 
+    foreign key (rol_id) references tbl_roles(rol_id) 
 ); 
 
 -- crear tabla de solicitudes 
-create table solicitudes ( 
+create table tbl_solicitudes ( 
     id int primary key identity(1,1), 
     descripcion varchar(500), 
     monto decimal(18,2), 
@@ -27,7 +27,7 @@ create table solicitudes (
 ); 
 
 -- crear tabla de auditoría 
-create table auditoria ( 
+create table tbl_auditoria ( 
     id int primary key identity(1,1), 
     tabla_afectada varchar(50) not null, 
     id_registro int not null, 
@@ -36,21 +36,21 @@ create table auditoria (
     usuario_id int, 
     datos_anteriores varchar(max), 
     datos_nuevos varchar(max), 
-    foreign key (usuario_id) references usuarios(id) 
+    foreign key (usuario_id) references tbl_usuarios(id) 
 ); 
 
 -- crear triggers para auditoría de usuarios 
 create trigger tr_usuarios_auditoria 
-on usuarios 
+on tbl_usuarios 
 after insert, update, delete 
 as 
 begin 
     set nocount on; 
     
     -- para inserciones 
-    insert into auditoria (tabla_afectada, id_registro, tipo_operacion, datos_nuevos) 
+    insert into tbl_auditoria (tabla_afectada, id_registro, tipo_operacion, datos_nuevos) 
     select 
-        'usuarios', 
+        'tbl_usuarios', 
         id, 
         'insert', 
         (select * from inserted i where i.id = inserted.id for json auto) 
@@ -58,9 +58,9 @@ begin
     where not exists (select 1 from deleted); 
 
     -- para actualizaciones 
-    insert into auditoria (tabla_afectada, id_registro, tipo_operacion, datos_anteriores, datos_nuevos) 
+    insert into tbl_auditoria (tabla_afectada, id_registro, tipo_operacion, datos_anteriores, datos_nuevos) 
     select 
-        'usuarios', 
+        'tbl_usuarios', 
         i.id, 
         'update', 
         (select * from deleted d where d.id = i.id for json auto), 
@@ -69,9 +69,9 @@ begin
     inner join deleted d on i.id = d.id; 
 
     -- para eliminaciones 
-    insert into auditoria (tabla_afectada, id_registro, tipo_operacion, datos_anteriores) 
+    insert into tbl_auditoria (tabla_afectada, id_registro, tipo_operacion, datos_anteriores) 
     select 
-        'usuarios', 
+        'tbl_usuarios', 
         id, 
         'delete', 
         (select * from deleted d where d.id = deleted.id for json auto) 
@@ -81,16 +81,16 @@ end;
 
 -- crear triggers para auditoría de solicitudes 
 create trigger tr_solicitudes_auditoria 
-on solicitudes 
+on tbl_solicitudes 
 after insert, update, delete 
 as 
 begin 
     set nocount on; 
     
     -- para inserciones 
-    insert into auditoria (tabla_afectada, id_registro, tipo_operacion, datos_nuevos) 
+    insert into tbl_auditoria (tabla_afectada, id_registro, tipo_operacion, datos_nuevos) 
     select 
-        'solicitudes', 
+        'tbl_solicitudes', 
         id, 
         'insert', 
         (select * from inserted i where i.id = inserted.id for json auto) 
@@ -98,9 +98,9 @@ begin
     where not exists (select 1 from deleted); 
 
     -- para actualizaciones 
-    insert into auditoria (tabla_afectada, id_registro, tipo_operacion, datos_anteriores, datos_nuevos) 
+    insert into tbl_auditoria (tabla_afectada, id_registro, tipo_operacion, datos_anteriores, datos_nuevos) 
     select 
-        'solicitudes', 
+        'tbl_solicitudes', 
         i.id, 
         'update', 
         (select * from deleted d where d.id = i.id for json auto), 
@@ -109,12 +109,33 @@ begin
     inner join deleted d on i.id = d.id; 
 
     -- para eliminaciones 
-    insert into auditoria (tabla_afectada, id_registro, tipo_operacion, datos_anteriores) 
+    insert into tbl_auditoria (tabla_afectada, id_registro, tipo_operacion, datos_anteriores) 
     select 
-        'solicitudes', 
+        'tbl_solicitudes', 
         id, 
         'delete', 
         (select * from deleted d where d.id = deleted.id for json auto) 
     from deleted 
     where not exists (select 1 from inserted); 
 end;
+
+
+
+
+-- Insertar roles
+INSERT INTO tbl_roles (descripcion)
+VALUES 
+('Administrador'),
+('Usuario'),
+('Supervisor'),
+('Invitado');
+
+-- Insertar usuarios
+INSERT INTO tbl_usuarios (nombres, username, rol_id, telefono, correo)
+VALUES 
+('kevin Pérez', 'kperez', 1, '1234567890', 'juan.perez@ejemplo.com'),
+('Ana Gómez', 'agomez', 2, '0987654321', 'ana.gomez@ejemplo.com'),
+('Luis Torres', 'ltorres', 3, '3216549870', 'luis.torres@ejemplo.com'),
+('María Ruiz', 'mruiz', 4, '4561237890', 'maria.ruiz@ejemplo.com');
+
+select * from [dbo].[tbl_usuarios];

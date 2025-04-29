@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\bin\Debug\net8.0\Solicitudes.API.Aplicacion.deps.json
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\bin\Debug\net8.0\Solicitudes.API.Aplicacion.dll
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\bin\Debug\net8.0\Solicitudes.API.Aplicacion.pdb
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\bin\Debug\net8.0\Solicitudes.API.Entidades.dll
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\bin\Debug\net8.0\Solicitudes.API.Entidades.pdb
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\obj\Debug\net8.0\Solicitudes.API.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\obj\Debug\net8.0\Solicitudes.API.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\obj\Debug\net8.0\Solicitudes.API.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\obj\Debug\net8.0\Solicitudes.API.Aplicacion.AssemblyInfo.cs
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\obj\Debug\net8.0\Solicitudes.API.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\obj\Debug\net8.0\Solicitu.A2B5B257.Up2Date
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\obj\Debug\net8.0\Solicitudes.API.Aplicacion.dll
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\obj\Debug\net8.0\refint\Solicitudes.API.Aplicacion.dll
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\obj\Debug\net8.0\Solicitudes.API.Aplicacion.pdb
+C:\Users\USER\source\repos\Solicitudes.API\Solicitudes.API.Aplicacion\obj\Debug\net8.0\ref\Solicitudes.API.Aplicacion.dll
