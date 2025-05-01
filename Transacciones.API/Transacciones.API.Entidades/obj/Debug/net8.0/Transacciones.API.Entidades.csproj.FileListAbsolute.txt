@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Transacciones.API.Entidades\bin\Debug\net8.0\Transacciones.API.Entidades.deps.json
+C:\Users\USER\source\repos\Transacciones.API.Entidades\bin\Debug\net8.0\Transacciones.API.Entidades.dll
+C:\Users\USER\source\repos\Transacciones.API.Entidades\bin\Debug\net8.0\Transacciones.API.Entidades.pdb
+C:\Users\USER\source\repos\Transacciones.API.Entidades\obj\Debug\net8.0\Transacciones.API.Entidades.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Transacciones.API.Entidades\obj\Debug\net8.0\Transacciones.API.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Transacciones.API.Entidades\obj\Debug\net8.0\Transacciones.API.Entidades.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Transacciones.API.Entidades\obj\Debug\net8.0\Transacciones.API.Entidades.AssemblyInfo.cs
+C:\Users\USER\source\repos\Transacciones.API.Entidades\obj\Debug\net8.0\Transacciones.API.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Transacciones.API.Entidades\obj\Debug\net8.0\Transacciones.API.Entidades.dll
+C:\Users\USER\source\repos\Transacciones.API.Entidades\obj\Debug\net8.0\refint\Transacciones.API.Entidades.dll
+C:\Users\USER\source\repos\Transacciones.API.Entidades\obj\Debug\net8.0\Transacciones.API.Entidades.pdb
+C:\Users\USER\source\repos\Transacciones.API.Entidades\obj\Debug\net8.0\ref\Transacciones.API.Entidades.dll
